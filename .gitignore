@@ -1,1 +1,15 @@
-target/
+# Maven build output
+/target/
+
+# Local IDE configuration
+/.classpath
+/.project
+/.settings/
+/.vscode/
+/.idea/
+/.metals/
+/.bloop/
+*.iml
+
+# macOS metadata
+.DS_Store
